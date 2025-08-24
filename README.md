@@ -77,10 +77,11 @@ The workflow includes:
 ## 📈 Visualizations  
 
 ### Winvoker Dataset  
-![Winvoker Graph](winvoker_graph.png)  
+![Winvoker Graph](Çalışma%201/winvoker-airlines_ekran%20görüntüleri/winvoker_graph.png)  
 
 ### Airline Tweets Dataset  
-![Airline Graph](Airline_model_v1_graph_all.png)  
+![Airline Graph](Çalışma%201/winvoker-airlines_ekran%20görüntüleri/Airline_model_v1_graph_all.png)  
+
 
 🔎 Notes:  
 - MLP achieved the best accuracy and F1 on the positive class.  
