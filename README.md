@@ -72,7 +72,15 @@ The workflow includes:
 ### Winvoker Dataset  
 - **Logistic Regression**: 93.44%  
 - **SVM**: 93.31%  
-- **MLP**: 94.21% (best overall)  
+- **MLP**: 94.21% (best overall)
+
+## 📈 Visualizations  
+
+### Winvoker Dataset  
+![Winvoker Graph](winvoker_graph.png)  
+
+### Airline Tweets Dataset  
+![Airline Graph](Airline_model_v1_graph_all.png)  
 
 🔎 Notes:  
 - MLP achieved the best accuracy and F1 on the positive class.  
