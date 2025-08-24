@@ -80,7 +80,7 @@ The workflow includes:
 ![Winvoker Graph](Çalışma%201/winvoker-airlines_ekran%20görüntüleri/winvoker_graph.png)  
 
 ### Airline Tweets Dataset  
-![Airline Graph](Çalışma%201/winvoker-airlines_ekran%20görüntüleri/Airline_model_v1_graph_all.png)  
+![Airline Graph](Çalışma%201/winvoker-airlines_ekran%20görüntüleri/Airline_model_v1_graph_all.jpg)  
 
 
 🔎 Notes:  
